@@ -66,9 +66,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="FodyWeavers.xml" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\..\..\..\Projects\WindowsAPICodePack\WindowsAPICodePack.csproj">
       <Project>{45109b18-99d7-474c-8013-a9eb65643bd2}</Project>
       <Name>WindowsAPICodePack</Name>
